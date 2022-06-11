@@ -1,0 +1,194 @@
+/Users/vasileiosmilias/Desktop/SET11105_CW2/SET11105_CW2/obj/Debug/netcoreapp3.1/SET11105_CW2.csproj.AssemblyReference.cache
+/Users/vasileiosmilias/Desktop/SET11105_CW2/SET11105_CW2/obj/Debug/netcoreapp3.1/SET11105_CW2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vasileiosmilias/Desktop/SET11105_CW2/SET11105_CW2/obj/Debug/netcoreapp3.1/SET11105_CW2.AssemblyInfoInputs.cache
+/Users/vasileiosmilias/Desktop/SET11105_CW2/SET11105_CW2/obj/Debug/netcoreapp3.1/SET11105_CW2.AssemblyInfo.cs
+/Users/vasileiosmilias/Desktop/SET11105_CW2/SET11105_CW2/obj/Debug/netcoreapp3.1/SET11105_CW2.csproj.CoreCompileInputs.cache
+/Users/vasileiosmilias/Desktop/SET11105_CW2/SET11105_CW2/obj/Debug/netcoreapp3.1/SET11105_CW2.MvcApplicationPartsAssemblyInfo.cache
+/Users/vasileiosmilias/Desktop/SET11105_CW2/SET11105_CW2/obj/Debug/netcoreapp3.1/SET11105_CW2.RazorAssemblyInfo.cache
+/Users/vasileiosmilias/Desktop/SET11105_CW2/SET11105_CW2/obj/Debug/netcoreapp3.1/SET11105_CW2.RazorAssemblyInfo.cs
+/Users/vasileiosmilias/Desktop/SET11105_CW2/SET11105_CW2/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/Users/vasileiosmilias/Desktop/SET11105_CW2/SET11105_CW2/bin/Debug/netcoreapp3.1/appsettings.json
+/Users/vasileiosmilias/Desktop/SET11105_CW2/SET11105_CW2/bin/Debug/netcoreapp3.1/SET11105_CW2.deps.json
+/Users/vasileiosmilias/Desktop/SET11105_CW2/SET11105_CW2/bin/Debug/netcoreapp3.1/SET11105_CW2.runtimeconfig.json
+/Users/vasileiosmilias/Desktop/SET11105_CW2/SET11105_CW2/bin/Debug/netcoreapp3.1/SET11105_CW2.runtimeconfig.dev.json
+/Users/vasileiosmilias/Desktop/SET11105_CW2/SET11105_CW2/bin/Debug/netcoreapp3.1/SET11105_CW2.dll
+/Users/vasileiosmilias/Desktop/SET11105_CW2/SET11105_CW2/bin/Debug/netcoreapp3.1/SET11105_CW2.pdb
+/Users/vasileiosmilias/Desktop/SET11105_CW2/SET11105_CW2/bin/Debug/netcoreapp3.1/SET11105_CW2.Views.dll
+/Users/vasileiosmilias/Desktop/SET11105_CW2/SET11105_CW2/bin/Debug/netcoreapp3.1/SET11105_CW2.Views.pdb
+/Users/vasileiosmilias/Desktop/SET11105_CW2/SET11105_CW2/bin/Debug/netcoreapp3.1/BouncyCastle.Crypto.dll
+/Users/vasileiosmilias/Desktop/SET11105_CW2/SET11105_CW2/bin/Debug/netcoreapp3.1/Google.Protobuf.dll
+/Users/vasileiosmilias/Desktop/SET11105_CW2/SET11105_CW2/bin/Debug/netcoreapp3.1/K4os.Compression.LZ4.dll
+/Users/vasileiosmilias/Desktop/SET11105_CW2/SET11105_CW2/bin/Debug/netcoreapp3.1/K4os.Compression.LZ4.Streams.dll
+/Users/vasileiosmilias/Desktop/SET11105_CW2/SET11105_CW2/bin/Debug/netcoreapp3.1/K4os.Hash.xxHash.dll
+/Users/vasileiosmilias/Desktop/SET11105_CW2/SET11105_CW2/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+/Users/vasileiosmilias/Desktop/SET11105_CW2/SET11105_CW2/bin/Debug/netcoreapp3.1/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/vasileiosmilias/Desktop/SET11105_CW2/SET11105_CW2/bin/Debug/netcoreapp3.1/Microsoft.Bcl.HashCode.dll
+/Users/vasileiosmilias/Desktop/SET11105_CW2/SET11105_CW2/bin/Debug/netcoreapp3.1/Microsoft.Data.Sqlite.dll
+/Users/vasileiosmilias/Desktop/SET11105_CW2/SET11105_CW2/bin/Debug/netcoreapp3.1/Microsoft.DotNet.PlatformAbstractions.dll
+/Users/vasileiosmilias/Desktop/SET11105_CW2/SET11105_CW2/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.dll
+/Users/vasileiosmilias/Desktop/SET11105_CW2/SET11105_CW2/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/vasileiosmilias/Desktop/SET11105_CW2/SET11105_CW2/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Design.dll
+/Users/vasileiosmilias/Desktop/SET11105_CW2/SET11105_CW2/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/vasileiosmilias/Desktop/SET11105_CW2/SET11105_CW2/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Sqlite.dll
+/Users/vasileiosmilias/Desktop/SET11105_CW2/SET11105_CW2/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/vasileiosmilias/Desktop/SET11105_CW2/SET11105_CW2/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Memory.dll
+/Users/vasileiosmilias/Desktop/SET11105_CW2/SET11105_CW2/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.dll
+/Users/vasileiosmilias/Desktop/SET11105_CW2/SET11105_CW2/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/vasileiosmilias/Desktop/SET11105_CW2/SET11105_CW2/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Binder.dll
+/Users/vasileiosmilias/Desktop/SET11105_CW2/SET11105_CW2/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.dll
+/Users/vasileiosmilias/Desktop/SET11105_CW2/SET11105_CW2/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/vasileiosmilias/Desktop/SET11105_CW2/SET11105_CW2/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyModel.dll
+/Users/vasileiosmilias/Desktop/SET11105_CW2/SET11105_CW2/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.dll
+/Users/vasileiosmilias/Desktop/SET11105_CW2/SET11105_CW2/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/vasileiosmilias/Desktop/SET11105_CW2/SET11105_CW2/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Options.dll
+/Users/vasileiosmilias/Desktop/SET11105_CW2/SET11105_CW2/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Primitives.dll
+/Users/vasileiosmilias/Desktop/SET11105_CW2/SET11105_CW2/bin/Debug/netcoreapp3.1/MySql.Data.dll
+/Users/vasileiosmilias/Desktop/SET11105_CW2/SET11105_CW2/bin/Debug/netcoreapp3.1/Ubiety.Dns.Core.dll
+/Users/vasileiosmilias/Desktop/SET11105_CW2/SET11105_CW2/bin/Debug/netcoreapp3.1/Zstandard.Net.dll
+/Users/vasileiosmilias/Desktop/SET11105_CW2/SET11105_CW2/bin/Debug/netcoreapp3.1/MySql.Data.EntityFrameworkCore.dll
+/Users/vasileiosmilias/Desktop/SET11105_CW2/SET11105_CW2/bin/Debug/netcoreapp3.1/SQLitePCLRaw.batteries_v2.dll
+/Users/vasileiosmilias/Desktop/SET11105_CW2/SET11105_CW2/bin/Debug/netcoreapp3.1/SQLitePCLRaw.nativelibrary.dll
+/Users/vasileiosmilias/Desktop/SET11105_CW2/SET11105_CW2/bin/Debug/netcoreapp3.1/SQLitePCLRaw.core.dll
+/Users/vasileiosmilias/Desktop/SET11105_CW2/SET11105_CW2/bin/Debug/netcoreapp3.1/SQLitePCLRaw.provider.dynamic_cdecl.dll
+/Users/vasileiosmilias/Desktop/SET11105_CW2/SET11105_CW2/bin/Debug/netcoreapp3.1/Renci.SshNet.dll
+/Users/vasileiosmilias/Desktop/SET11105_CW2/SET11105_CW2/bin/Debug/netcoreapp3.1/SshNet.Security.Cryptography.dll
+/Users/vasileiosmilias/Desktop/SET11105_CW2/SET11105_CW2/bin/Debug/netcoreapp3.1/System.Collections.Immutable.dll
+/Users/vasileiosmilias/Desktop/SET11105_CW2/SET11105_CW2/bin/Debug/netcoreapp3.1/System.Configuration.ConfigurationManager.dll
+/Users/vasileiosmilias/Desktop/SET11105_CW2/SET11105_CW2/bin/Debug/netcoreapp3.1/System.Diagnostics.DiagnosticSource.dll
+/Users/vasileiosmilias/Desktop/SET11105_CW2/SET11105_CW2/bin/Debug/netcoreapp3.1/System.Security.Cryptography.ProtectedData.dll
+/Users/vasileiosmilias/Desktop/SET11105_CW2/SET11105_CW2/bin/Debug/netcoreapp3.1/System.Text.Json.dll
+/Users/vasileiosmilias/Desktop/SET11105_CW2/SET11105_CW2/bin/Debug/netcoreapp3.1/System.Xml.XPath.XmlDocument.dll
+/Users/vasileiosmilias/Desktop/SET11105_CW2/SET11105_CW2/bin/Debug/netcoreapp3.1/runtimes/alpine-x64/native/libe_sqlite3.so
+/Users/vasileiosmilias/Desktop/SET11105_CW2/SET11105_CW2/bin/Debug/netcoreapp3.1/runtimes/linux-arm/native/libe_sqlite3.so
+/Users/vasileiosmilias/Desktop/SET11105_CW2/SET11105_CW2/bin/Debug/netcoreapp3.1/runtimes/linux-arm64/native/libe_sqlite3.so
+/Users/vasileiosmilias/Desktop/SET11105_CW2/SET11105_CW2/bin/Debug/netcoreapp3.1/runtimes/linux-armel/native/libe_sqlite3.so
+/Users/vasileiosmilias/Desktop/SET11105_CW2/SET11105_CW2/bin/Debug/netcoreapp3.1/runtimes/linux-mips64/native/libe_sqlite3.so
+/Users/vasileiosmilias/Desktop/SET11105_CW2/SET11105_CW2/bin/Debug/netcoreapp3.1/runtimes/linux-musl-x64/native/libe_sqlite3.so
+/Users/vasileiosmilias/Desktop/SET11105_CW2/SET11105_CW2/bin/Debug/netcoreapp3.1/runtimes/linux-x64/native/libe_sqlite3.so
+/Users/vasileiosmilias/Desktop/SET11105_CW2/SET11105_CW2/bin/Debug/netcoreapp3.1/runtimes/linux-x86/native/libe_sqlite3.so
+/Users/vasileiosmilias/Desktop/SET11105_CW2/SET11105_CW2/bin/Debug/netcoreapp3.1/runtimes/osx-x64/native/libe_sqlite3.dylib
+/Users/vasileiosmilias/Desktop/SET11105_CW2/SET11105_CW2/bin/Debug/netcoreapp3.1/runtimes/win-arm/native/e_sqlite3.dll
+/Users/vasileiosmilias/Desktop/SET11105_CW2/SET11105_CW2/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/e_sqlite3.dll
+/Users/vasileiosmilias/Desktop/SET11105_CW2/SET11105_CW2/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/e_sqlite3.dll
+/Users/vasileiosmilias/Desktop/SET11105_CW2/SET11105_CW2/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/e_sqlite3.dll
+/Users/vasileiosmilias/Desktop/SET11105_CW2/SET11105_CW2/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/vasileiosmilias/Desktop/SET11105_CW2/SET11105_CW2/obj/Debug/netcoreapp3.1/staticwebassets/SET11105_CW2.StaticWebAssets.Manifest.cache
+/Users/vasileiosmilias/Desktop/SET11105_CW2/SET11105_CW2/obj/Debug/netcoreapp3.1/staticwebassets/SET11105_CW2.StaticWebAssets.xml
+/Users/vasileiosmilias/Desktop/SET11105_CW2/SET11105_CW2/obj/Debug/netcoreapp3.1/scopedcss/bundle/SET11105_CW2.styles.css
+/Users/vasileiosmilias/Desktop/SET11105_CW2/SET11105_CW2/obj/Debug/netcoreapp3.1/SET11105_CW2.TagHelpers.input.cache
+/Users/vasileiosmilias/Desktop/SET11105_CW2/SET11105_CW2/obj/Debug/netcoreapp3.1/SET11105_CW2.TagHelpers.output.cache
+/Users/vasileiosmilias/Desktop/SET11105_CW2/SET11105_CW2/obj/Debug/netcoreapp3.1/SET11105_CW2.RazorCoreGenerate.cache
+/Users/vasileiosmilias/Desktop/SET11105_CW2/SET11105_CW2/obj/Debug/netcoreapp3.1/Razor/Views/Home/CreateCause.cshtml.g.cs
+/Users/vasileiosmilias/Desktop/SET11105_CW2/SET11105_CW2/obj/Debug/netcoreapp3.1/Razor/Views/Home/Index.cshtml.g.cs
+/Users/vasileiosmilias/Desktop/SET11105_CW2/SET11105_CW2/obj/Debug/netcoreapp3.1/Razor/Views/Home/LogIn.cshtml.g.cs
+/Users/vasileiosmilias/Desktop/SET11105_CW2/SET11105_CW2/obj/Debug/netcoreapp3.1/Razor/Views/Home/SignUp.cshtml.g.cs
+/Users/vasileiosmilias/Desktop/SET11105_CW2/SET11105_CW2/obj/Debug/netcoreapp3.1/Razor/Views/Home/ViewCauses.cshtml.g.cs
+/Users/vasileiosmilias/Desktop/SET11105_CW2/SET11105_CW2/obj/Debug/netcoreapp3.1/Razor/Views/Shared/Error.cshtml.g.cs
+/Users/vasileiosmilias/Desktop/SET11105_CW2/SET11105_CW2/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs
+/Users/vasileiosmilias/Desktop/SET11105_CW2/SET11105_CW2/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+/Users/vasileiosmilias/Desktop/SET11105_CW2/SET11105_CW2/obj/Debug/netcoreapp3.1/Razor/Views/_ViewImports.cshtml.g.cs
+/Users/vasileiosmilias/Desktop/SET11105_CW2/SET11105_CW2/obj/Debug/netcoreapp3.1/Razor/Views/_ViewStart.cshtml.g.cs
+/Users/vasileiosmilias/Desktop/SET11105_CW2/SET11105_CW2/obj/Debug/netcoreapp3.1/SET11105_CW2.RazorTargetAssemblyInfo.cache
+/Users/vasileiosmilias/Desktop/SET11105_CW2/SET11105_CW2/obj/Debug/netcoreapp3.1/SET11105_CW2.RazorTargetAssemblyInfo.cs
+/Users/vasileiosmilias/Desktop/SET11105_CW2/SET11105_CW2/obj/Debug/netcoreapp3.1/SET11105_CW2.Views.pdb
+/Users/vasileiosmilias/Desktop/SET11105_CW2/SET11105_CW2/obj/Debug/netcoreapp3.1/SET11105_CW2.csproj.CopyComplete
+/Users/vasileiosmilias/Desktop/SET11105_CW2/SET11105_CW2/obj/Debug/netcoreapp3.1/SET11105_CW2.dll
+/Users/vasileiosmilias/Desktop/SET11105_CW2/SET11105_CW2/obj/Debug/netcoreapp3.1/SET11105_CW2.pdb
+/Users/vasileiosmilias/Desktop/SET11105_CW2/SET11105_CW2/obj/Debug/netcoreapp3.1/SET11105_CW2.genruntimeconfig.cache
+/Users/vasileiosmilias/Desktop/MSc in Computing/Trimester II - 2022/SET11105_CW2/SET11105_CW2/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/Users/vasileiosmilias/Desktop/MSc in Computing/Trimester II - 2022/SET11105_CW2/SET11105_CW2/bin/Debug/netcoreapp3.1/appsettings.json
+/Users/vasileiosmilias/Desktop/MSc in Computing/Trimester II - 2022/SET11105_CW2/SET11105_CW2/bin/Debug/netcoreapp3.1/SET11105_CW2.deps.json
+/Users/vasileiosmilias/Desktop/MSc in Computing/Trimester II - 2022/SET11105_CW2/SET11105_CW2/bin/Debug/netcoreapp3.1/SET11105_CW2.runtimeconfig.json
+/Users/vasileiosmilias/Desktop/MSc in Computing/Trimester II - 2022/SET11105_CW2/SET11105_CW2/bin/Debug/netcoreapp3.1/SET11105_CW2.runtimeconfig.dev.json
+/Users/vasileiosmilias/Desktop/MSc in Computing/Trimester II - 2022/SET11105_CW2/SET11105_CW2/bin/Debug/netcoreapp3.1/SET11105_CW2.dll
+/Users/vasileiosmilias/Desktop/MSc in Computing/Trimester II - 2022/SET11105_CW2/SET11105_CW2/bin/Debug/netcoreapp3.1/SET11105_CW2.pdb
+/Users/vasileiosmilias/Desktop/MSc in Computing/Trimester II - 2022/SET11105_CW2/SET11105_CW2/bin/Debug/netcoreapp3.1/SET11105_CW2.Views.dll
+/Users/vasileiosmilias/Desktop/MSc in Computing/Trimester II - 2022/SET11105_CW2/SET11105_CW2/bin/Debug/netcoreapp3.1/SET11105_CW2.Views.pdb
+/Users/vasileiosmilias/Desktop/MSc in Computing/Trimester II - 2022/SET11105_CW2/SET11105_CW2/bin/Debug/netcoreapp3.1/BouncyCastle.Crypto.dll
+/Users/vasileiosmilias/Desktop/MSc in Computing/Trimester II - 2022/SET11105_CW2/SET11105_CW2/bin/Debug/netcoreapp3.1/Google.Protobuf.dll
+/Users/vasileiosmilias/Desktop/MSc in Computing/Trimester II - 2022/SET11105_CW2/SET11105_CW2/bin/Debug/netcoreapp3.1/K4os.Compression.LZ4.dll
+/Users/vasileiosmilias/Desktop/MSc in Computing/Trimester II - 2022/SET11105_CW2/SET11105_CW2/bin/Debug/netcoreapp3.1/K4os.Compression.LZ4.Streams.dll
+/Users/vasileiosmilias/Desktop/MSc in Computing/Trimester II - 2022/SET11105_CW2/SET11105_CW2/bin/Debug/netcoreapp3.1/K4os.Hash.xxHash.dll
+/Users/vasileiosmilias/Desktop/MSc in Computing/Trimester II - 2022/SET11105_CW2/SET11105_CW2/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+/Users/vasileiosmilias/Desktop/MSc in Computing/Trimester II - 2022/SET11105_CW2/SET11105_CW2/bin/Debug/netcoreapp3.1/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/vasileiosmilias/Desktop/MSc in Computing/Trimester II - 2022/SET11105_CW2/SET11105_CW2/bin/Debug/netcoreapp3.1/Microsoft.Bcl.HashCode.dll
+/Users/vasileiosmilias/Desktop/MSc in Computing/Trimester II - 2022/SET11105_CW2/SET11105_CW2/bin/Debug/netcoreapp3.1/Microsoft.Data.Sqlite.dll
+/Users/vasileiosmilias/Desktop/MSc in Computing/Trimester II - 2022/SET11105_CW2/SET11105_CW2/bin/Debug/netcoreapp3.1/Microsoft.DotNet.PlatformAbstractions.dll
+/Users/vasileiosmilias/Desktop/MSc in Computing/Trimester II - 2022/SET11105_CW2/SET11105_CW2/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.dll
+/Users/vasileiosmilias/Desktop/MSc in Computing/Trimester II - 2022/SET11105_CW2/SET11105_CW2/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/vasileiosmilias/Desktop/MSc in Computing/Trimester II - 2022/SET11105_CW2/SET11105_CW2/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Design.dll
+/Users/vasileiosmilias/Desktop/MSc in Computing/Trimester II - 2022/SET11105_CW2/SET11105_CW2/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/vasileiosmilias/Desktop/MSc in Computing/Trimester II - 2022/SET11105_CW2/SET11105_CW2/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Sqlite.dll
+/Users/vasileiosmilias/Desktop/MSc in Computing/Trimester II - 2022/SET11105_CW2/SET11105_CW2/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/vasileiosmilias/Desktop/MSc in Computing/Trimester II - 2022/SET11105_CW2/SET11105_CW2/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Memory.dll
+/Users/vasileiosmilias/Desktop/MSc in Computing/Trimester II - 2022/SET11105_CW2/SET11105_CW2/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.dll
+/Users/vasileiosmilias/Desktop/MSc in Computing/Trimester II - 2022/SET11105_CW2/SET11105_CW2/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/vasileiosmilias/Desktop/MSc in Computing/Trimester II - 2022/SET11105_CW2/SET11105_CW2/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Binder.dll
+/Users/vasileiosmilias/Desktop/MSc in Computing/Trimester II - 2022/SET11105_CW2/SET11105_CW2/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.dll
+/Users/vasileiosmilias/Desktop/MSc in Computing/Trimester II - 2022/SET11105_CW2/SET11105_CW2/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/vasileiosmilias/Desktop/MSc in Computing/Trimester II - 2022/SET11105_CW2/SET11105_CW2/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyModel.dll
+/Users/vasileiosmilias/Desktop/MSc in Computing/Trimester II - 2022/SET11105_CW2/SET11105_CW2/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.dll
+/Users/vasileiosmilias/Desktop/MSc in Computing/Trimester II - 2022/SET11105_CW2/SET11105_CW2/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/vasileiosmilias/Desktop/MSc in Computing/Trimester II - 2022/SET11105_CW2/SET11105_CW2/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Options.dll
+/Users/vasileiosmilias/Desktop/MSc in Computing/Trimester II - 2022/SET11105_CW2/SET11105_CW2/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Primitives.dll
+/Users/vasileiosmilias/Desktop/MSc in Computing/Trimester II - 2022/SET11105_CW2/SET11105_CW2/bin/Debug/netcoreapp3.1/MySql.Data.dll
+/Users/vasileiosmilias/Desktop/MSc in Computing/Trimester II - 2022/SET11105_CW2/SET11105_CW2/bin/Debug/netcoreapp3.1/Ubiety.Dns.Core.dll
+/Users/vasileiosmilias/Desktop/MSc in Computing/Trimester II - 2022/SET11105_CW2/SET11105_CW2/bin/Debug/netcoreapp3.1/Zstandard.Net.dll
+/Users/vasileiosmilias/Desktop/MSc in Computing/Trimester II - 2022/SET11105_CW2/SET11105_CW2/bin/Debug/netcoreapp3.1/MySql.Data.EntityFrameworkCore.dll
+/Users/vasileiosmilias/Desktop/MSc in Computing/Trimester II - 2022/SET11105_CW2/SET11105_CW2/bin/Debug/netcoreapp3.1/SQLitePCLRaw.batteries_v2.dll
+/Users/vasileiosmilias/Desktop/MSc in Computing/Trimester II - 2022/SET11105_CW2/SET11105_CW2/bin/Debug/netcoreapp3.1/SQLitePCLRaw.nativelibrary.dll
+/Users/vasileiosmilias/Desktop/MSc in Computing/Trimester II - 2022/SET11105_CW2/SET11105_CW2/bin/Debug/netcoreapp3.1/SQLitePCLRaw.core.dll
+/Users/vasileiosmilias/Desktop/MSc in Computing/Trimester II - 2022/SET11105_CW2/SET11105_CW2/bin/Debug/netcoreapp3.1/SQLitePCLRaw.provider.dynamic_cdecl.dll
+/Users/vasileiosmilias/Desktop/MSc in Computing/Trimester II - 2022/SET11105_CW2/SET11105_CW2/bin/Debug/netcoreapp3.1/Renci.SshNet.dll
+/Users/vasileiosmilias/Desktop/MSc in Computing/Trimester II - 2022/SET11105_CW2/SET11105_CW2/bin/Debug/netcoreapp3.1/SshNet.Security.Cryptography.dll
+/Users/vasileiosmilias/Desktop/MSc in Computing/Trimester II - 2022/SET11105_CW2/SET11105_CW2/bin/Debug/netcoreapp3.1/System.Collections.Immutable.dll
+/Users/vasileiosmilias/Desktop/MSc in Computing/Trimester II - 2022/SET11105_CW2/SET11105_CW2/bin/Debug/netcoreapp3.1/System.Configuration.ConfigurationManager.dll
+/Users/vasileiosmilias/Desktop/MSc in Computing/Trimester II - 2022/SET11105_CW2/SET11105_CW2/bin/Debug/netcoreapp3.1/System.Diagnostics.DiagnosticSource.dll
+/Users/vasileiosmilias/Desktop/MSc in Computing/Trimester II - 2022/SET11105_CW2/SET11105_CW2/bin/Debug/netcoreapp3.1/System.Security.Cryptography.ProtectedData.dll
+/Users/vasileiosmilias/Desktop/MSc in Computing/Trimester II - 2022/SET11105_CW2/SET11105_CW2/bin/Debug/netcoreapp3.1/System.Text.Json.dll
+/Users/vasileiosmilias/Desktop/MSc in Computing/Trimester II - 2022/SET11105_CW2/SET11105_CW2/bin/Debug/netcoreapp3.1/System.Xml.XPath.XmlDocument.dll
+/Users/vasileiosmilias/Desktop/MSc in Computing/Trimester II - 2022/SET11105_CW2/SET11105_CW2/bin/Debug/netcoreapp3.1/runtimes/alpine-x64/native/libe_sqlite3.so
+/Users/vasileiosmilias/Desktop/MSc in Computing/Trimester II - 2022/SET11105_CW2/SET11105_CW2/bin/Debug/netcoreapp3.1/runtimes/linux-arm/native/libe_sqlite3.so
+/Users/vasileiosmilias/Desktop/MSc in Computing/Trimester II - 2022/SET11105_CW2/SET11105_CW2/bin/Debug/netcoreapp3.1/runtimes/linux-arm64/native/libe_sqlite3.so
+/Users/vasileiosmilias/Desktop/MSc in Computing/Trimester II - 2022/SET11105_CW2/SET11105_CW2/bin/Debug/netcoreapp3.1/runtimes/linux-armel/native/libe_sqlite3.so
+/Users/vasileiosmilias/Desktop/MSc in Computing/Trimester II - 2022/SET11105_CW2/SET11105_CW2/bin/Debug/netcoreapp3.1/runtimes/linux-mips64/native/libe_sqlite3.so
+/Users/vasileiosmilias/Desktop/MSc in Computing/Trimester II - 2022/SET11105_CW2/SET11105_CW2/bin/Debug/netcoreapp3.1/runtimes/linux-musl-x64/native/libe_sqlite3.so
+/Users/vasileiosmilias/Desktop/MSc in Computing/Trimester II - 2022/SET11105_CW2/SET11105_CW2/bin/Debug/netcoreapp3.1/runtimes/linux-x64/native/libe_sqlite3.so
+/Users/vasileiosmilias/Desktop/MSc in Computing/Trimester II - 2022/SET11105_CW2/SET11105_CW2/bin/Debug/netcoreapp3.1/runtimes/linux-x86/native/libe_sqlite3.so
+/Users/vasileiosmilias/Desktop/MSc in Computing/Trimester II - 2022/SET11105_CW2/SET11105_CW2/bin/Debug/netcoreapp3.1/runtimes/osx-x64/native/libe_sqlite3.dylib
+/Users/vasileiosmilias/Desktop/MSc in Computing/Trimester II - 2022/SET11105_CW2/SET11105_CW2/bin/Debug/netcoreapp3.1/runtimes/win-arm/native/e_sqlite3.dll
+/Users/vasileiosmilias/Desktop/MSc in Computing/Trimester II - 2022/SET11105_CW2/SET11105_CW2/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/e_sqlite3.dll
+/Users/vasileiosmilias/Desktop/MSc in Computing/Trimester II - 2022/SET11105_CW2/SET11105_CW2/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/e_sqlite3.dll
+/Users/vasileiosmilias/Desktop/MSc in Computing/Trimester II - 2022/SET11105_CW2/SET11105_CW2/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/e_sqlite3.dll
+/Users/vasileiosmilias/Desktop/MSc in Computing/Trimester II - 2022/SET11105_CW2/SET11105_CW2/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/vasileiosmilias/Desktop/MSc in Computing/Trimester II - 2022/SET11105_CW2/SET11105_CW2/obj/Debug/netcoreapp3.1/SET11105_CW2.csproj.AssemblyReference.cache
+/Users/vasileiosmilias/Desktop/MSc in Computing/Trimester II - 2022/SET11105_CW2/SET11105_CW2/obj/Debug/netcoreapp3.1/SET11105_CW2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vasileiosmilias/Desktop/MSc in Computing/Trimester II - 2022/SET11105_CW2/SET11105_CW2/obj/Debug/netcoreapp3.1/SET11105_CW2.AssemblyInfoInputs.cache
+/Users/vasileiosmilias/Desktop/MSc in Computing/Trimester II - 2022/SET11105_CW2/SET11105_CW2/obj/Debug/netcoreapp3.1/SET11105_CW2.AssemblyInfo.cs
+/Users/vasileiosmilias/Desktop/MSc in Computing/Trimester II - 2022/SET11105_CW2/SET11105_CW2/obj/Debug/netcoreapp3.1/SET11105_CW2.csproj.CoreCompileInputs.cache
+/Users/vasileiosmilias/Desktop/MSc in Computing/Trimester II - 2022/SET11105_CW2/SET11105_CW2/obj/Debug/netcoreapp3.1/SET11105_CW2.MvcApplicationPartsAssemblyInfo.cache
+/Users/vasileiosmilias/Desktop/MSc in Computing/Trimester II - 2022/SET11105_CW2/SET11105_CW2/obj/Debug/netcoreapp3.1/SET11105_CW2.RazorAssemblyInfo.cache
+/Users/vasileiosmilias/Desktop/MSc in Computing/Trimester II - 2022/SET11105_CW2/SET11105_CW2/obj/Debug/netcoreapp3.1/SET11105_CW2.RazorAssemblyInfo.cs
+/Users/vasileiosmilias/Desktop/MSc in Computing/Trimester II - 2022/SET11105_CW2/SET11105_CW2/obj/Debug/netcoreapp3.1/staticwebassets/SET11105_CW2.StaticWebAssets.Manifest.cache
+/Users/vasileiosmilias/Desktop/MSc in Computing/Trimester II - 2022/SET11105_CW2/SET11105_CW2/obj/Debug/netcoreapp3.1/staticwebassets/SET11105_CW2.StaticWebAssets.xml
+/Users/vasileiosmilias/Desktop/MSc in Computing/Trimester II - 2022/SET11105_CW2/SET11105_CW2/obj/Debug/netcoreapp3.1/scopedcss/bundle/SET11105_CW2.styles.css
+/Users/vasileiosmilias/Desktop/MSc in Computing/Trimester II - 2022/SET11105_CW2/SET11105_CW2/obj/Debug/netcoreapp3.1/SET11105_CW2.TagHelpers.input.cache
+/Users/vasileiosmilias/Desktop/MSc in Computing/Trimester II - 2022/SET11105_CW2/SET11105_CW2/obj/Debug/netcoreapp3.1/SET11105_CW2.TagHelpers.output.cache
+/Users/vasileiosmilias/Desktop/MSc in Computing/Trimester II - 2022/SET11105_CW2/SET11105_CW2/obj/Debug/netcoreapp3.1/SET11105_CW2.RazorCoreGenerate.cache
+/Users/vasileiosmilias/Desktop/MSc in Computing/Trimester II - 2022/SET11105_CW2/SET11105_CW2/obj/Debug/netcoreapp3.1/Razor/Views/Home/CreateCause.cshtml.g.cs
+/Users/vasileiosmilias/Desktop/MSc in Computing/Trimester II - 2022/SET11105_CW2/SET11105_CW2/obj/Debug/netcoreapp3.1/Razor/Views/Home/Index.cshtml.g.cs
+/Users/vasileiosmilias/Desktop/MSc in Computing/Trimester II - 2022/SET11105_CW2/SET11105_CW2/obj/Debug/netcoreapp3.1/Razor/Views/Home/LogIn.cshtml.g.cs
+/Users/vasileiosmilias/Desktop/MSc in Computing/Trimester II - 2022/SET11105_CW2/SET11105_CW2/obj/Debug/netcoreapp3.1/Razor/Views/Home/SignUp.cshtml.g.cs
+/Users/vasileiosmilias/Desktop/MSc in Computing/Trimester II - 2022/SET11105_CW2/SET11105_CW2/obj/Debug/netcoreapp3.1/Razor/Views/Home/ViewCauses.cshtml.g.cs
+/Users/vasileiosmilias/Desktop/MSc in Computing/Trimester II - 2022/SET11105_CW2/SET11105_CW2/obj/Debug/netcoreapp3.1/Razor/Views/Shared/Error.cshtml.g.cs
+/Users/vasileiosmilias/Desktop/MSc in Computing/Trimester II - 2022/SET11105_CW2/SET11105_CW2/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs
+/Users/vasileiosmilias/Desktop/MSc in Computing/Trimester II - 2022/SET11105_CW2/SET11105_CW2/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+/Users/vasileiosmilias/Desktop/MSc in Computing/Trimester II - 2022/SET11105_CW2/SET11105_CW2/obj/Debug/netcoreapp3.1/Razor/Views/_ViewImports.cshtml.g.cs
+/Users/vasileiosmilias/Desktop/MSc in Computing/Trimester II - 2022/SET11105_CW2/SET11105_CW2/obj/Debug/netcoreapp3.1/Razor/Views/_ViewStart.cshtml.g.cs
+/Users/vasileiosmilias/Desktop/MSc in Computing/Trimester II - 2022/SET11105_CW2/SET11105_CW2/obj/Debug/netcoreapp3.1/SET11105_CW2.RazorTargetAssemblyInfo.cache
+/Users/vasileiosmilias/Desktop/MSc in Computing/Trimester II - 2022/SET11105_CW2/SET11105_CW2/obj/Debug/netcoreapp3.1/SET11105_CW2.RazorTargetAssemblyInfo.cs
+/Users/vasileiosmilias/Desktop/MSc in Computing/Trimester II - 2022/SET11105_CW2/SET11105_CW2/obj/Debug/netcoreapp3.1/SET11105_CW2.Views.pdb
+/Users/vasileiosmilias/Desktop/MSc in Computing/Trimester II - 2022/SET11105_CW2/SET11105_CW2/obj/Debug/netcoreapp3.1/SET11105_CW2.csproj.CopyComplete
+/Users/vasileiosmilias/Desktop/MSc in Computing/Trimester II - 2022/SET11105_CW2/SET11105_CW2/obj/Debug/netcoreapp3.1/SET11105_CW2.dll
+/Users/vasileiosmilias/Desktop/MSc in Computing/Trimester II - 2022/SET11105_CW2/SET11105_CW2/obj/Debug/netcoreapp3.1/SET11105_CW2.pdb
+/Users/vasileiosmilias/Desktop/MSc in Computing/Trimester II - 2022/SET11105_CW2/SET11105_CW2/obj/Debug/netcoreapp3.1/SET11105_CW2.genruntimeconfig.cache

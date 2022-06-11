@@ -1,0 +1,63 @@
+﻿@model SET11105_CW2.Models.Cause
+@{
+    ViewData["Title"] = "Create A Cause";
+}
+
+
+
+
+<br />
+<br />
+<br />
+
+
+<!--create the form and connect to the correct object tha represents a table in the database-->
+@using (Html.BeginForm())
+{
+
+    @Html.AntiForgeryToken()
+    @Html.ValidationSummary(true)
+
+
+    <fieldset>
+
+        <h5>Please type the subject</h5>
+        <p>Racism - Sexism - Tax Avoidance - Environemt</p>
+        <div> <!--pass and validate the right informtaion into the database - subject field-->
+            @Html.EditorFor(model => model.subject)
+            @Html.ValidationMessageFor(model => model.subject)
+        </div>
+
+        <br />
+
+        <h5>Please type cause:</h5>
+
+        <div>
+            <!--pass and validate the right informtaion into the database - description field-->
+            @Html.EditorFor(model => model.description)
+            @Html.ValidationMessageFor(model => model.description)
+        </div>
+
+
+
+
+        <br />
+
+        <p>
+            <input type="submit" class="btn btn-success" value="Submit" />
+        </p>
+
+
+
+    </fieldset>
+
+
+    <br />
+
+    <div>
+        @Html.ActionLink("Back to HomePage", "Index")
+    </div>
+
+}
+
+

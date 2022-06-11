@@ -1,0 +1,61 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<!--generate a list of the cause object in order to use the context to our page-->
+@model List<SET11105_CW2.Models.Cause>;
+
+
+
+
+
+<h1>Popular Causes: </h1>
+
+<br />
+<br />
+
+<!--foreach loop in order to iterate through every record of the cause table and display it appropriatley through html with razor pages-->
+@{
+    foreach (var item in Model)
+    {
+
+    <div class="tweetable" data-user="jqueryscript" href="https://twitter.com/share">
+        <h4>Subject:<span class="badge badge-secondary"> @item.subject</span></h4>
+        <p class="causepPar tweetable">
+            @item.description
+        </p>
+        <div class="row">
+            <div class="col-md-4 col-xs-6"><h5>Signatories: <span id="signatures" class="label label-primary">@item.numOfSignatures</span></h5></div>
+            <div class="col-md-4 col-xs-6"><h5><span class="badge badge-secondary">@item.timeOfPublish</span></h5></div>
+            <div class="col-md-4 col-xs-6"><button onclick="addSign()" type="button" class="btn btn-success pull-right" id="sign">Sign the Cause</button></div>
+            <div><a href="https://twitter.com/share" class="twitter-share-button" data-count="vertical">Tweet it</a></div>
+        </div>
+    </div>
+        
+
+        <br />
+    }
+}
+
+
+
+<br />
+
+
+<!--Jquery script-->
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+
+<script>
+    $('.twitter-share-button').attr('.causePar');
+</script>
+
+<!-- we create afunction where the message shows when the user clicks the "sign" button and we increase by 1 the number of signatoires-->
+<script type="text/javascript">function addSign() {
+    $("#signatures").append("  Your vote was counted");
+
+    }</script>
+
+
+
+
+
